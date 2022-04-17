@@ -1,0 +1,10 @@
+
+ body {
+
+cursor: context-menu;
+
+  }
+
+.top-table {
+  table-layout: fixed !important;
+}
